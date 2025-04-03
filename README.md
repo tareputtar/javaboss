@@ -1,4 +1,6 @@
 Project Structure
+
+
 Manifests folder
 
 It contain AndroidManifest.xml file which is heart of android project.
